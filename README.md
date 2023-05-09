@@ -15,6 +15,7 @@ practice-go-simple-api is simple api server
 
 ## Functions
 
-- 問題一覧を取得する
-- 解答履歴を作る
-- 解答履歴を取得する
+- ユーザー作成 / CreateUser
+- ユーザー取得 / FindUser
+- 問題一覧を取得する / ListQuestions
+- 解答履歴を作る / CreateAnswerHistory
